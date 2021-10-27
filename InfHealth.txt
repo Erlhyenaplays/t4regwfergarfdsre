@@ -1,0 +1,6 @@
+local lplr = game.Players.LocalPlayer.Character.Humanoid
+
+while wait() do
+    lplr.MaxHealth=math.huge * math.huge
+    lplr.Health=math.huge *math.huge
+    end
